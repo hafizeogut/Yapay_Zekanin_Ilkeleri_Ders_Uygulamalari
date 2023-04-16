@@ -1,0 +1,1 @@
+# Yapay_Zekanin_Ilkeleri_Ders_Uygulamalari
