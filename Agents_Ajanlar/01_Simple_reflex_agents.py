@@ -3,7 +3,7 @@ import random
 
 #Robot sınıfını tanımlanıyor. Bu sınıf, robotun pozisyonunu ve sense() ve act() adlı iki yöntemini içermektedir.
 class Robot:
-    #init yoüntemi Robot nesnesi oluiturulduğunda cağırılır ve robotun baslangıç pozisyonunu  alıyor.
+    #init yöntemi Robot nesnesi oluiturulduğunda cağırılır ve robotun baslangıç pozisyonunu  alır.
     def __init__(self,position):
         self.position=position
         
